@@ -11,6 +11,9 @@ Practice working with “2-level” CRUD and Firebase, as well as different inpu
 Create an app that allows users to create, update, and delete checklists.
 
 
+## Note
+I wasn't able to fully complete #s 7, 9, and 16
+
 ## What it does
 | No. | Requirement  | 
 | --- | ------------- | 
